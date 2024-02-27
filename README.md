@@ -1,7 +1,7 @@
 # HƯỚNG DẪN KHỞI ĐỘNG CHƯƠNG TRÌNH
 1. Đọc file bacpac trong SQL SERVER MANAGMENT STUDIO bằng cách import file QLTrungTamYOLA.bacpac
 
-2. Tải file QL_TrungtamYOLA và giải nén.
+2. Tải file QL_TrungtamYOLA và cài đặt.
 
 3. Mở Sever Explorer (Visual Studio) -> Data Connection ->  Add Connection -> Nhập Server name (Server name khi mở SSMS) -> Chọn database QLTrungTamYOLA vừa import.
 
